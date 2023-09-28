@@ -39,7 +39,7 @@ Feel free to choose a name that resonates with your vision and mission for this 
 - [LinkedIn](https://www.linkedin.com/in/avinash-mane-developer10)
 
 📧 **Contact:**
-For any queries or suggestions, please feel free to reach out to us at [email@example.com](mailto:email@example.com).
+For any queries or suggestions, please feel free to reach out to us at [maneavinash818@gmail.com](mailto:maneavinash818@gmail.com).
 
 ---
 
