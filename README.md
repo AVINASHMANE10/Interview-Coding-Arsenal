@@ -36,8 +36,7 @@ Feel free to choose a name that resonates with your vision and mission for this 
 
 🔗 **Connect with us:**
 - [GitHub](#)
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/avinash-mane-developer10)
 
 📧 **Contact:**
 For any queries or suggestions, please feel free to reach out to us at [email@example.com](mailto:email@example.com).
